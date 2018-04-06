@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PoweredBy2.iml" filepath="$PROJECT_DIR$/PoweredBy2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PoweredByShared.iml" filepath="$PROJECT_DIR$/PoweredByShared.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
