@@ -107,16 +107,6 @@ public class MainActivity extends AppCompatActivity {
         startActivity(Intent.createChooser(sendIntent,"About me share..."));
     }
 
-    private void sendImg(Uri image_uri){
-        Intent intent = new Intent();
-        intent.setAction(Intent.ACTION_SEND);
-        intent.putExtra(Intent.EXTRA_TEXT, "Hello");
-        intent.putExtra(Intent.EXTRA_STREAM, image_uri);
-        intent.setType("image/png");
-        intent.addFlags(Intent.FLAG_GRANT_READ_URI_PERMISSION);
-        startActivity(intent);
-    }
-
     public void shareDrawable(int resourceId, String fileName) {
         try {
             //Convertir el recurso en bitmap
