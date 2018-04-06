@@ -2,4 +2,10 @@
     <string name="app_name">PoweredBy</string>
     <string name="name_author">Douglas Antonio Hernández Torres</string>
     <string name="author_career">Ing. Informática</string>
+    <string name="text_mail">00004516@uca.edu.sv</string>
+    <string name="text_sign">Powered by:: DouglasHdezT</string>
+    <string name="text_share_button">Compartir</string>
+    <string name="text_phone">+503 7711-6303</string>
+    <string name="text_git">DouglasHdezT</string>
+    <string name="text_facebook">facebook.com/Daht12</string>
 </resources>
